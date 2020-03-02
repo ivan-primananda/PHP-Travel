@@ -1,0 +1,521 @@
+.warna{
+    background-color: black;
+}
+
+.warna h1,h2,h3,h4,h5,p{
+    color: white;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.navbar-brand{
+    font-family: viga;
+    font-size: 22px;
+    color: white !important;
+    text-shadow: 2px, 2px, 2px rgba(0, 0, 0, 1);
+}
+
+.nav-link{
+    font-family: viga;
+    font-size: 18px;
+    color: slategray !important;
+    text-shadow: 2px, 2px, 2px rgba(0, 0, 0, 1);
+}
+
+.tombol {
+  text-transform: uppercase;
+  border-radius: 50px;
+  font-family: viga;
+  width: 100px;
+}
+
+.tombol-pesan {
+    text-transform: uppercase;
+    border-radius: 10px;
+    font-family: viga;
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+.contfix a{
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.contfix img{
+    width: 30px;
+    height: 30px;
+    font-family: raleway;
+}
+
+.tombol-tiket{
+    text-transform: uppercase;
+    border-radius: 50px;
+    font-family: viga;
+    width: 150px;
+    background-color: black;
+    margin-bottom: 100px;
+}
+
+.tombol-site{
+    font-family: viga;
+    margin-left: 10px;
+    width: 90px;
+    border-radius: 50px;
+    border-color: white;
+    text-transform: lowercase;
+}
+
+.jumbotron{
+    background-image: url(../img/stefan-stefancik-545709-unsplash.jpg);
+    height: 550px;
+    background-size: 250%;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.jumbotron .display-4{
+    font-family: viga;
+    margin-top: 170px;
+    color: white !important;
+    text-shadow: 2px, 2px, 2px rgba(0, 0, 0, 1);
+}
+
+.workingspace{
+    margin-top: 30px;
+}
+
+.workingspace img{
+    border-radius: 20px;
+}
+
+.workingspace h3{
+    font-family: viga;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.workingspace p{
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: raleway;
+    text-align: justify;
+}
+
+.service{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-family: viga;
+    background-color: black;
+    height: 1220px;
+}
+
+.service-content{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-family: viga;
+    background-color: black;
+    height: 1720px;
+}
+
+.service-content-tiket{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-family: viga;
+    background-color: black;
+    height: 2420px;
+}
+
+.service-jne{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: viga;
+    background-color: black;
+    height: 620px;
+}
+
+
+.service-content p{
+    margin-top: 18px;
+    font-family: raleway;
+    font-size: 14px;
+}
+
+.service-content-tiket p{
+    margin-top: 18px;
+    font-family: raleway;
+    font-size: 14px;
+}
+
+.service-jne p{
+    margin-top: 18px;
+    font-family: raleway;
+    font-size: 14px;
+}
+
+.our-service img{
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.our-service h4{
+  text-align: center;
+  color: white;
+}
+
+.paket{
+  font-family: viga;
+  text-align: center;
+}
+
+.paket p{
+    text-align: right;
+    font-family: raleway;
+    font-size: 12px;
+}
+
+.paket table{
+    font-size: 12px;
+}
+
+.paket-page{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: viga;
+    font-size: 12px;
+    text-align: center;
+}
+
+.paket-page p{
+    text-align: right;
+    font-family: raleway;
+    font-size: 12px;
+}
+
+.table{
+    text-align: center;
+    color: white;
+}
+
+.border{
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 700px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.border p{
+    text-align: left;
+}
+
+.paket-konten img{
+  margin-top: 30px;
+  width: 350px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.testimoni{
+    text-align: center;
+    font-family: viga;
+    margin-top: 50px;
+    background-color: black;
+    height: 550px;
+}
+
+.testimoni-konten img{
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.testimoni-konten h4{
+    margin-top: 40px;
+    font-family: viga;
+}
+
+.testimoni-konten p{
+    margin-top: 5px;
+    font-size: 14px;
+    font-style: italic;
+    font-family: raleway;
+}
+
+.footer{
+    background-image: url(../img/paul-volkmer-638816-unsplash.jpg);
+    height: 350px;
+    font-family: viga;
+    text-align: center;
+    color: white;
+}
+
+.footer .icon-phone{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.footer .icon-email{
+    margin-top: -10px;
+    margin-left: 60px;
+}
+
+.footer p{
+    margin-top: 5px;
+    text-align: left;
+}
+
+.footer .social-media{
+    margin-top: 10px;
+}
+
+.footer .powered p{
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.wisata{
+    margin-top: 70px;
+    font-family: viga;
+    text-align: center;
+}
+
+.our-wisata-1 img{
+    margin-top: 30px;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.our-wisata-1 h5{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.card-body h5{
+    color: black;
+}
+
+.our-wisata-2 img{
+    margin-top: 30px;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.our-wisata-2 h5{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.tiket h1{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-family: viga;
+    text-align: center;
+    color: red;
+}
+
+.tiket img{
+    height: 200px;
+    width: 200px;
+    margin-top: -35px;
+    margin-bottom: 55px;
+}
+
+.mount {
+    font-family: viga;
+    text-align: justify;
+    margin-bottom: 80px;
+}
+
+.mount h4{
+    margin-top: 50px;
+    color: white;
+}
+
+.mount p{
+    font-family: raleway;
+    font-size: 14px;
+    color: white;
+}
+
+.bromo img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.carousel-item img{
+    width: cover;
+    height: 300px;
+}
+
+.hotel{
+    margin-top: 20px;
+}
+
+.hotel-konten h4{
+    margin-top: 30px;
+    font-family: viga;
+}
+
+.hotel-konten img{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.hotel p{
+    font-family: raleway;
+}
+
+.hotel-penjelasan img{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.jne-penjelasan img{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.jne-penjelasan p{
+    text-align: left;
+}
+
+.jne-icon img{
+    height: 30px;
+    width: 30px;
+    color: white;
+} 
+
+.hotel-penjelasan p{
+    text-align: justify ;
+    font-size: 14px;
+}
+
+.hotel-penjelasan .picby{
+    font-size: 10px;
+    margin-top: -1px;
+}
+
+.pagination{
+    margin-top: 50px;
+}
+
+.tabel-paket{
+    text-align: left;
+}
+
+.tabel_car{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+.nav-link{
+    text-transform: uppercase;
+    color: white !important;
+}
+
+.jumbotron{
+  height: 580px;
+  background-size: 100%;
+}
+
+.service{
+  height: 320px;
+}
+
+.service-content{
+    height: 720px;
+}
+
+.testimoni{
+    height: 550px;
+}
+
+.our-wisata-2 img{
+    margin-top: 120px;
+}
+
+.our-wisata-2 h5{
+    margin-bottom: 60px;
+}
+
+.mount p{
+    font-size: 16px;
+}
+
+.hotel p{
+    margin-top: 20px;
+}
+
+.carousel-item img{
+    width: cover;
+    height: 600px;
+}
+
+.paket-page{
+    font-size: 16px;
+}
+
+.paket table{
+    font-size: 16px;
+}
+
+.footer .icon-phone{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.footer .icon-email{
+    margin-top: -10px;
+    margin-left: 60px;
+}
+
+.contfix a{
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.contfix img{
+    width: 45px;
+    height: 45px;
+}
+
+.service-jne{
+    height: 420px;
+}
+
+.service-content-tiket{
+    height: 920px;
+}
+
+}
